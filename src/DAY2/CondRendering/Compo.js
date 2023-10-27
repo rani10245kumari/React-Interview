@@ -14,7 +14,7 @@ export default Compo
 function Com1() {
     return (
         <>
-            <h1>This is first ParentComponent</h1>
+            <h4>This is first ParentComponent</h4>
         </>
     )
 }
@@ -23,7 +23,7 @@ function Com1() {
 function Com2() {
     return (
         <>
-            <h1>Thsi is second Compo</h1>
+            <h4>Thsi is second Compo</h4>
         </>
     )
 }
