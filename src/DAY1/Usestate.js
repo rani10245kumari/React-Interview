@@ -6,6 +6,10 @@ function USESTATE() {
     }
     const Sub = () => {
         setCount(count - 1)
+        setCount(count - 1)
+        // setCount(prvcount => prvcount - 1)
+        // setCount(prvcount => prvcount - 1)
+        // setCount(prvcount => prvcount - 1)
     }
     return (
         <>

@@ -4,14 +4,25 @@ import Compo from './DAY2/CondRendering/Compo';
 import ParentComponent from './DAY2/PropParent';
 import RouterCompo from './DAY2/ROUTES/Router';
 import USESTATE from './DAY1/Usestate'
+import Colorcom from './MiniProject/Color';
+import Propscom from './MiniProject/Props';
+import Propscompo2 from './MiniProject/PropsClass';
+import Statecompo from './DAY1/StateClass';
 
 function App() {
   return (
     <div className="App">
-      {/* <ParentComponent></ParentComponent>
-      <RouterCompo></RouterCompo> */}
+      <ParentComponent></ParentComponent>
+      {/* <RouterCompo></RouterCompo>  */}
       {/* <Compo></Compo> */}
-      <USESTATE></USESTATE>
+      {/* <USESTATE></USESTATE> */}
+      {/* <Colorcom></Colorcom> */}
+      {/* <Propscom name='rani'>
+        <h2>passing value using props</h2>
+        <h3>welcome</h3>
+      </Propscom>
+      <Propscompo2 name='momo'></Propscompo2> */}
+      {/* <Statecompo></Statecompo> */}
     </div>
   );
 }
