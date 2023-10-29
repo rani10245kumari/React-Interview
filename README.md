@@ -38,4 +38,15 @@ React updates only the parts of the Real DOM that have actually changed, reducin
 #### Ans-
 The main purpose of this file is to hold various metadata related to the project. The file is used to provide the information to the node package manager (NPM) that allows identifying the project and its dependencies.
 
+### Q5 What is JSX and why do we use it instead of js?
+#### Ans- 
+JSX stands for javascript XML, is a syntax extension for JavaScript that is commonly used in React applications. JSX allows you to write HTML-like code within your JavaScript code, making it easier to describe the structure of your UI components.
+
+1.Declarative Syntax
+2.Readability
+3.Component Composition
+4.Performance Optimization
+
+
+
 
