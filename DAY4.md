@@ -49,4 +49,4 @@ The useReducer Hook returns the current stateand a dispatchmethod.
 |----|----|
 |useEffect is a React Hook that allows you to perform side effects in your functional components. Side effects typically include data fetching, DOM manipulation, or setting up subscriptions.|useContext is a React Hook used for accessing and consuming a Context object. Context provides a way to pass data through the component tree without having to pass props down manually at every level.|
 |useEffect takes two arguments: a function with side effects and an array of dependencies to control when the effect runs.|useContext takes a single argument, the Context object, and returns the current context value.|
-|useEffect is primarily used for managing asynchronous operations and side effects.|
+|useEffect is primarily used for managing asynchronous operations and side effects.|useContext is used for sharing data (such as global state) across components.|
