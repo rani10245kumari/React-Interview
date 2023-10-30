@@ -10,6 +10,7 @@ import Statecompo from './DAY1/StateClass';
 import Classeventhandler from './Eventhandler/Classevent';
 import Functionalevent from './Eventhandler/Functionalevent';
 import CounterApp from './MiniProject/props2'
+import CALLBACKPARENT from './DAY4/CALLBACKPARENT'
 
 function App() {
   return (
@@ -25,9 +26,10 @@ function App() {
            </Propscom>*/}
       {/* <Propscompo2 name='momo'></Propscompo2> */}
       {/* <Statecompo></Statecompo> */}
-      <Classeventhandler></Classeventhandler>
-      <Functionalevent></Functionalevent>
+      {/* <Classeventhandler></Classeventhandler>
+      <Functionalevent></Functionalevent> */}
       {/* < CounterApp></CounterApp> */}
+      <CALLBACKPARENT></CALLBACKPARENT>
     </div>
   );
 }

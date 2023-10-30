@@ -58,6 +58,10 @@ React is known as ReactJs, which is a JavaScript library to build single-page we
 |stateful components are keeping track of changing data|stateless components print out what is given to them via props, or they always render the same thing.|
 Stateful components can use react life cycle hooks|Stateless components can not use the react life cycle hooks|
 
+### Q8 What do you know about NPM?
+#### Ans-
+
+
 
 
 
