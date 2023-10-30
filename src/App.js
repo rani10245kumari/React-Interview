@@ -1,4 +1,3 @@
-
 import './App.css';
 import Compo from './DAY2/CondRendering/Compo';
 import ParentComponent from './DAY2/PropParent';
@@ -23,7 +22,7 @@ function App() {
       {/* <Propscom name='rani'>
         <h2>passing value using props</h2>
         <h3>welcome</h3>
-  </Propscom>*/}
+           </Propscom>*/}
       {/* <Propscompo2 name='momo'></Propscompo2> */}
       {/* <Statecompo></Statecompo> */}
       <Classeventhandler></Classeventhandler>

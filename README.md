@@ -47,6 +47,18 @@ JSX stands for javascript XML, is a syntax extension for JavaScript that is comm
 3.Component Composition
 4.Performance Optimization
 
+### Q6 What is the Difference between react and react native? Which one is library or framework?
+#### Ans-
+React is known as ReactJs, which is a JavaScript library to build single-page web applications. Besides, React Native is a React JS-based framework to design mobile apps.
+
+### Q7 Difference b/w Stateful and stateless Component?
+|Stateful|Stateless|
+|----|----|
+|one whoes having state|it does'nt have state|
+|stateful components are keeping track of changing data|stateless components print out what is given to them via props, or they always render the same thing.|
+Stateful components can use react life cycle hooks|Stateless components can not use the react life cycle hooks|
+
+
 
 
 
